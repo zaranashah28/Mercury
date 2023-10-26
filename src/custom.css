@@ -1,0 +1,23 @@
+/* custom.css */
+/* Change the font color for Navbar links */
+.navbar.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 700;
+  }
+  
+  /* Change the font color for the Navbar brand */
+  .navbar.navbar-dark .navbar-brand {
+    color: white !important;
+    font-weight: 700;
+  }
+  
+  /* Change the background color for the Navbar toggle button */
+  .navbar.navbar-dark .navbar-toggler-icon {
+    background-color: white;
+  }
+  
+  /* Remove the border around the Navbar toggle button */
+  .navbar.navbar-dark .navbar-toggler {
+    border: none;
+  }
+  

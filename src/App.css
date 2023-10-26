@@ -12,7 +12,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+body {
+  background-color: black ;
+  /* background: rgb(79,63,70); */
+/* background: radial-gradient(circle, rgba(79,63,70,1) 0%, rgba(67,68,70,0.773546918767507) 100%); */
+  color: white; /* Set text color to white for better visibility on a black background */
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
