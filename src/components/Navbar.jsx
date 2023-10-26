@@ -8,9 +8,6 @@ import AboutUs from './AboutUS';
 import ContactUsPage from './ContactUs';
 
 
-const Home = () => <div>Home Page</div>;
-const Features = () => <div>Features Page</div>;
-const Pricing = () => <div>Pricing Page</div>;
 const Action = () => <div>Action Page</div>;
 const AnotherAction = () => <div>Another Action Page</div>;
 const Something = () => <div>Something Page</div>;
