@@ -202,7 +202,7 @@ const PlaygroundContent1 = () => {
                         style={{paddingRight: "5%"}}
 						className="font-general-medium mt-4 text-lg md:text-xl lg:text-2xl xl:text-2xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
 					>
-						Put a VBR Cockpit up in your facility and soon your place will
+						Put a MercuryVRC Cockpit up in your facility and soon your place will
 						always remind people of the ride of their life. Use the Playground
 						as multiplying magnet, making people pull over direct at your point
 						of sale. Or, what about going all in and setting up your own racing

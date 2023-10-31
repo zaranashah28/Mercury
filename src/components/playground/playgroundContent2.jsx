@@ -101,7 +101,7 @@ const PlaygroundContent2 = () => {
 							</h2>
 							<span className="text-ternary-dark dark:text-primary-light">
 								Deliver an unforgettable experience to your audience and let
-								people get fast and furious with your VBR Playground. Our
+								people get fast and furious with your MercuryVRC Playground. Our
 								recommendation: Hit the pedal to the metal, enjoy yourself and
 								watch your business grow.
 							</span>

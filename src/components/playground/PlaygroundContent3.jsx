@@ -7,10 +7,7 @@ import event from "../../images/event.png";
 import { motion } from "framer-motion";
 
 const imageArray = [
-	{
-		src: racing,
-		caption: "Image 1",
-	},
+	
 	{
 		src: fair,
 		caption: "Fun parks",
@@ -61,7 +58,7 @@ function PlaygroundContent3() {
 				className="font-cursive font-semibold text-2xl lg:text-5xl xl:text-6xl text-center sm:text-left text-primary text-shadow-md mb-5 sm:mb-10"
 			>
 				<span className="text-ternary-dark dark:text-primary-light">
-					Fill up the fun tanks of your audience, clients and teams! VBR
+					Fill up the fun tanks of your audience, clients and teams! MercuryVRC
 					Playground is a magic match for …
 				</span>
 			</motion.h1>
