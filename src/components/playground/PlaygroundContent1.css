@@ -1,0 +1,56 @@
+/* Responsive styles for PlaygroundContent1 */
+
+/* Base styles for large screens */
+.playground-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .heading {
+    font-family: 'Your Cursive Font', cursive;
+    font-weight: 600;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #333; /* Change to your preferred text color */
+    margin-bottom: 2rem;
+  }
+  
+  .sub-heading {
+    color: orangered;
+  }
+  
+  .paragraph {
+    font-size: 1rem;
+    text-align: center;
+    color: #666; /* Change to your preferred text color */
+    margin: 1rem 0;
+  }
+  
+  .call-button {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .heading {
+      font-size: 2rem;
+    }
+  
+    .paragraph {
+      font-size: 0.9rem;
+    }
+  }
+  
+  /* Media query for even smaller screens */
+  @media (max-width: 480px) {
+    .heading {
+      font-size: 1.8rem;
+    }
+  
+    .paragraph {
+      font-size: 0.85rem;
+    }
+  }
+  
