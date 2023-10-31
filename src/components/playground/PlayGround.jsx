@@ -6,6 +6,8 @@ import CategoryGrid from '../category/CategoryGrid';
 import Specs from '../category/categorySpec';
 import PlaygroundContent1 from './playgroundContent1';
 import { FiPhoneCall } from 'react-icons/fi';
+import PlaygroundContent2 from './playgroundContent2';
+import PlaygroundContent3 from './PlaygroundContent3';
 
 const PlayGround = () => {
     return (
@@ -90,6 +92,10 @@ const PlayGround = () => {
             </CategoryProvider>
             <Specs />
             <PlaygroundContent1 />
+            <PlaygroundContent2 />
+            <CategoryProvider>
+                <PlaygroundContent3></PlaygroundContent3>
+            </CategoryProvider>
         </div>
     );
 };
